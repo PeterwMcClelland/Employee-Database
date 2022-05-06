@@ -3,6 +3,7 @@
 # This application allows users to:
 
 -View current employees, employee roles, departments and salarys.
+
 -Add departments, employees, employee roles and their salarys.
 
 # How to use
