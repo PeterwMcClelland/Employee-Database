@@ -17,3 +17,14 @@ https://drive.google.com/file/d/1_O_gXCloXltMXTsjOWpKRC5BqVE6tbkB/view
 
 https://github.com/PeterwMcClelland/Employee-Database
 
+# Built With
+-"Javascript"
+
+-"console.table"
+
+-"mysql2"
+
+-"inquirer"
+
+-"express"
+
